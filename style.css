@@ -4,9 +4,11 @@ body {
 }
 
 header {
-	background: #BBBBBB;
+	background: #2f6325;
 	padding: 20px 0;
 }
+
+
 
 .caixa {
 	position: relative;
@@ -83,7 +85,12 @@ nav a:hover {
 	margin-top: 10px;
 }
 
+h2 .novoProdutos{
+	margin-top: 10px;
+}
+
 footer {
+	
 	text-align: center;
 	background: url("img/bg.jpg");
 	padding: 40px 0;
